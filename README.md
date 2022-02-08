@@ -1,2 +1,3 @@
 # practicalCS
-Learning C# demo projects
+## Practicing C# 
+## Demo projects

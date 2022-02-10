@@ -1,0 +1,257 @@
+[
+  {
+    "FirstName": "Rodgers",
+    "LastName": "Bush",
+    "Age": 21,
+    "Addresses": [
+      {
+        "StreetAddress": "Cameron Court",
+        "City": "Independence",
+        "State": "Wyoming",
+        "ZipCode": 6947
+      },
+      {
+        "StreetAddress": "Kensington Street",
+        "City": "Santel",
+        "State": "Arkansas",
+        "ZipCode": 9979
+      },
+      {
+        "StreetAddress": "Taylor Street",
+        "City": "Wyano",
+        "State": "Oklahoma",
+        "ZipCode": 9221
+      },
+      {
+        "StreetAddress": "Dinsmore Place",
+        "City": "Benson",
+        "State": "Tennessee",
+        "ZipCode": 9457
+      },
+      {
+        "StreetAddress": "Linden Boulevard",
+        "City": "Sanborn",
+        "State": "Indiana",
+        "ZipCode": 2147
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Signity.rodgersbush@signity.com"
+      },
+      {
+        "EmailAddress": "Cytrek.rodgersbush@cytrek.com"
+      },
+      {
+        "EmailAddress": "Ronbert.rodgersbush@ronbert.com"
+      },
+      {
+        "EmailAddress": "Limozen.rodgersbush@limozen.com"
+      },
+      {
+        "EmailAddress": "Newcube.rodgersbush@newcube.com"
+      },
+      {
+        "EmailAddress": "Qualitex.rodgersbush@qualitex.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Mayra",
+    "LastName": "Guy",
+    "Age": 57,
+    "Addresses": [
+      {
+        "StreetAddress": "Pine Street",
+        "City": "Brantleyville",
+        "State": "Maryland",
+        "ZipCode": 9931
+      },
+      {
+        "StreetAddress": "Herbert Street",
+        "City": "Roderfield",
+        "State": "Guam",
+        "ZipCode": 4429
+      },
+      {
+        "StreetAddress": "Homecrest Avenue",
+        "City": "Glendale",
+        "State": "Northern Mariana Islands",
+        "ZipCode": 3893
+      },
+      {
+        "StreetAddress": "Sackman Street",
+        "City": "Southview",
+        "State": "Utah",
+        "ZipCode": 4950
+      },
+      {
+        "StreetAddress": "Dictum Court",
+        "City": "Shrewsbury",
+        "State": "Arizona",
+        "ZipCode": 506
+      },
+      {
+        "StreetAddress": "Matthews Place",
+        "City": "Steinhatchee",
+        "State": "North Dakota",
+        "ZipCode": 5496
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Zolarex.mayraguy@zolarex.com"
+      },
+      {
+        "EmailAddress": "Zolarity.mayraguy@zolarity.com"
+      },
+      {
+        "EmailAddress": "Accruex.mayraguy@accruex.com"
+      },
+      {
+        "EmailAddress": "Bicol.mayraguy@bicol.com"
+      },
+      {
+        "EmailAddress": "Viocular.mayraguy@viocular.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Sophie",
+    "LastName": "Daugherty",
+    "Age": 53,
+    "Addresses": [
+      {
+        "StreetAddress": "Bleecker Street",
+        "City": "Ripley",
+        "State": "Oregon",
+        "ZipCode": 1690
+      },
+      {
+        "StreetAddress": "Columbia Place",
+        "City": "Belva",
+        "State": "Vermont",
+        "ZipCode": 2069
+      },
+      {
+        "StreetAddress": "National Drive",
+        "City": "Kansas",
+        "State": "Virgin Islands",
+        "ZipCode": 2935
+      },
+      {
+        "StreetAddress": "Cove Lane",
+        "City": "Murillo",
+        "State": "Michigan",
+        "ZipCode": 5042
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Ramjob.sophiedaugherty@ramjob.com"
+      },
+      {
+        "EmailAddress": "Extragen.sophiedaugherty@extragen.com"
+      },
+      {
+        "EmailAddress": "Brainclip.sophiedaugherty@brainclip.com"
+      },
+      {
+        "EmailAddress": "Extragene.sophiedaugherty@extragene.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Marcella",
+    "LastName": "Ward",
+    "Age": 16,
+    "Addresses": [
+      {
+        "StreetAddress": "Tillary Street",
+        "City": "Worton",
+        "State": "Palau",
+        "ZipCode": 6194
+      },
+      {
+        "StreetAddress": "Lewis Avenue",
+        "City": "Shepardsville",
+        "State": "Washington",
+        "ZipCode": 6511
+      },
+      {
+        "StreetAddress": "Dwight Street",
+        "City": "Esmont",
+        "State": "Kentucky",
+        "ZipCode": 7538
+      },
+      {
+        "StreetAddress": "Grafton Street",
+        "City": "Laurelton",
+        "State": "North Carolina",
+        "ZipCode": 3314
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Zedalis.marcellaward@zedalis.com"
+      },
+      {
+        "EmailAddress": "Apex.marcellaward@apex.com"
+      },
+      {
+        "EmailAddress": "Decratex.marcellaward@decratex.com"
+      },
+      {
+        "EmailAddress": "Ronelon.marcellaward@ronelon.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Atkins",
+    "LastName": "Gomez",
+    "Age": 41,
+    "Addresses": [
+      {
+        "StreetAddress": "Tennis Court",
+        "City": "Wyoming",
+        "State": "Nebraska",
+        "ZipCode": 6947
+      },
+      {
+        "StreetAddress": "Stillwell Place",
+        "City": "Jugtown",
+        "State": "South Dakota",
+        "ZipCode": 7086
+      },
+      {
+        "StreetAddress": "Howard Place",
+        "City": "Moscow",
+        "State": "New York",
+        "ZipCode": 7169
+      },
+      {
+        "StreetAddress": "Hull Street",
+        "City": "Ronco",
+        "State": "Virginia",
+        "ZipCode": 2583
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "Enjola.atkinsgomez@enjola.com"
+      },
+      {
+        "EmailAddress": "Geekwagon.atkinsgomez@geekwagon.com"
+      },
+      {
+        "EmailAddress": "Kangle.atkinsgomez@kangle.com"
+      },
+      {
+        "EmailAddress": "Skyplex.atkinsgomez@skyplex.com"
+      },
+      {
+        "EmailAddress": "Gonkle.atkinsgomez@gonkle.com"
+      }
+    ]
+  }
+]

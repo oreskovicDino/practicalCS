@@ -15,4 +15,6 @@
     <ProjectReference Include="..\EFDataAccessLibrary\EFDataAccessLibrary.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+
 </Project>
